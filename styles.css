@@ -115,6 +115,10 @@
                 border-radius: 2px;
             }
             
+            .py-5{
+                background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            }
+            
             .portfolio-grid {
                 display: grid;
                 grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
